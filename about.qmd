@@ -1,9 +1,16 @@
 ---
-title: "About"
+title: "About Me"
+css: styles.css
 ---
 
-About this site
+<img src="images/DSC08960.jpeg" class="float-right" width="300"/>
 
-```{r}
-1 + 1
-```
+Hello! My name is Harmony Nguyen, and I'm currently a project coordinator in the [Cognition, Affect, and Temperament Lab](https://www.catlabpsu.com/) at Penn State University. I currently lead a longitudinal study examining parent-child interactions and anxiety transmission over time.
+
+After earning my BA in Psychology from Cal Poly Pomona, I moved to Pennsylvania to pursue my research interests in parent-child interactions. I'm most interested in family stress and the contextual/environmental factors that influence the development of psychopathology. In my future career, I hope to leverage data to support non-profits aimed at supporting families and children's health.
+
+In my free time, I enjoy going to the gym, listening to music, and going to concerts. I am also an avid record collector! Below are some of my favorite songs of all time:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2K8uwdvjtiYNOTRQMgvvMH?utm_source=generator&amp;theme=0" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>

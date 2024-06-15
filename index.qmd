@@ -1,11 +1,21 @@
 ---
-title: "harmonynguyen"
+title: "Harmony Nguyen"
+format: html
+editor: visual
+
+about: 
+  template: jolla
+  image: images/harmony.jpg
+  links: 
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/hknguyen00/
+      
+    - icon: twitter
+      text: X/Twitter
+      href: https://x.com/hknguyen_
+      
+    - icon: github
+      text: GitHub
+      href: https://github.com/hjn5144
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
