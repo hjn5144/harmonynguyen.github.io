@@ -4,8 +4,8 @@ format: html
 editor: visual
 
 about: 
-  template: jolla
-  image: images/harmony.jpg
+  template: trestles
+  image: images/DSC08960.jpeg
   links: 
     - icon: linkedin
       text: Linkedin
@@ -19,3 +19,19 @@ about:
       text: GitHub
       href: https://github.com/hjn5144
 ---
+
+## Welcome!
+
+Hello and welcome to my personal website! I created this to tell you more about myself, my interests, and my experiences. I'm a post-bacc researcher in the Cognition, Affect, and Temperament Lab and hope to pursue a career in child development and data management/science.
+
+### Education
+
+**California Polytechnic State University, Pomona \| Pomona, CA**
+
+Bachelor of Arts in Psychology \| August 2018 - May 2022
+
+### Experience
+
+**Cognition, Affect, and Temperament Lab** (PI: Koraly Pérez-Edgar, Ph.D.) \| Project Coordinator \| November 2022 - Present
+
+**College of Letters, Arts, and Social Science** (PIs: Juliana Fuqua, Ph.D., Faye Wachs, Ph.D.) \| Lead Undergraduate Research Assistant \| October 2021 - May 2022
