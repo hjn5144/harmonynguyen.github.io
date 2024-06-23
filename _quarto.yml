@@ -2,21 +2,30 @@ project:
   type: website
 
 website:
+  page-navigation: true
   title: "Harmony Nguyen"
   search: true
+  
   navbar:
-    background: primary
+    background: "#A7D5E8"
+    logo: "hn-logo-zip-file/png/logo-no-background.png"
     right:
       - text: "Home"
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - text: "CV/Resume"
+        href: cv_resume.qmd
+  
 
 format:
   html:
-    theme: minty
-    css: styles.css
-    toc: true
-
+    theme: 
+      - cosmo
+      - cosmo.scss
+    toc: false
+    mainfont: "Atkinson Hyperlegible"
+    include-in-header: "fontawesome.html"    
+    
 editor: visual
 

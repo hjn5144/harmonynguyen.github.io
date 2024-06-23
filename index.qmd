@@ -5,7 +5,7 @@ editor: visual
 
 about: 
   template: trestles
-  image: images/DSC08960.jpeg
+  image: images/harmony1.jpeg
   links: 
     - icon: linkedin
       text: Linkedin
