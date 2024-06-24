@@ -7,8 +7,7 @@ website:
   search: true
   
   navbar:
-    background: "#A7D5E8"
-    logo: "H.png"
+    background: "#C8DFEA"
     right:
       - text: "Home"
         href: index.qmd
