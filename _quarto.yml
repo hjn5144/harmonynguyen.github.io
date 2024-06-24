@@ -17,6 +17,8 @@ website:
       - text: "CV/Resume"
         href: cv_resume.qmd
   
+   page-footer: 
+    right: "This page was built with ❤️ and [Quarto](https://quarto.org/)."
 format:
   html:
     theme: 
