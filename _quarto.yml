@@ -17,7 +17,6 @@ website:
       - text: "CV/Resume"
         href: cv_resume.qmd
   
-
 format:
   html:
     theme: 
@@ -28,4 +27,7 @@ format:
     include-in-header: "fontawesome.html"    
     
 editor: visual
+
+execute: 
+  freeze: auto
 
