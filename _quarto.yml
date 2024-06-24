@@ -8,7 +8,7 @@ website:
   
   navbar:
     background: "#A7D5E8"
-    logo: "hn-logo-zip-file/png/logo-no-background.png"
+    logo: "H.png"
     right:
       - text: "Home"
         href: index.qmd
