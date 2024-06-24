@@ -5,10 +5,10 @@ website:
   page-navigation: true
   title: "Harmony Nguyen"
   search: true
-  favicon: "hn-favicon-color.png"
+  favicon: "images/hn-favicon-color.png"
   
   navbar:
-    logo: "logo-no-background.png"
+    logo: "images/logo-no-background.png"
     right:
       - text: "Home"
         href: index.qmd
@@ -21,10 +21,10 @@ format:
   html:
     theme: 
       - cosmo
-      - cosmo.scss
+      - styles/cosmo.scss
     toc: false
     mainfont: "Atkinson Hyperlegible"
-    include-in-header: "fontawesome.html"    
+    include-in-header: "styles/fontawesome.html"    
     
 editor: visual
 
