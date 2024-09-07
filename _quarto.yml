@@ -4,7 +4,6 @@ project:
 website:
   page-navigation: true
   title: "Harmony Nguyen"
-  search: true
   favicon: "images/hn-favicon-color.png"
   
   navbar:
