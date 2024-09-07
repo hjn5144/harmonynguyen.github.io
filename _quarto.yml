@@ -15,7 +15,12 @@ website:
       - text: "About"
         href: about.qmd
       - text: "CV/Resume"
-        href: cv_resume.qmd
+        menu: 
+          - text: "CV"
+            href: cv.qmd
+          - text: "Resume"
+            href: resume.qmd
+            
   
   page-footer: 
     right: "This page was built with ❤️ and [Quarto](https://quarto.org/)."
