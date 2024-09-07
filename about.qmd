@@ -6,7 +6,7 @@ lightbox: true
 
 ![](images/minnesota.jpg){style="float: right; top: 0px; padding: 20px" fig-align="right" width="356"}
 
-My name is Harmony Nguyen, and I'm a project coordinator in the [Cognition, Affect, and Temperament Lab](https://www.catlabpsu.com/) at Penn State University. In my role, I lead a longitudinal study examining parent-child interactions and anxiety transmission over time.
+My name is Harmony Nguyen, and I'm a former project coordinator in the [Cognition, Affect, and Temperament Lab](https://www.catlabpsu.com/) at Penn State University. In my role, I helped lead a longitudinal study examining parent-child interactions and anxiety transmission over time.
 
 After earning my BA in Psychology from Cal Poly Pomona, I moved to Pennsylvania to build on my research and data skills. I'm currently learning R for data manipulation, analysis, and visualization. In my future career, I plan to learn additional programming languages, so I can leverage data and support non-profits that promote family and child well-being.
 
