@@ -22,7 +22,7 @@ about:
 
 ## Welcome!
 
-Hello and welcome to my personal website! I created this to tell you more about myself, my interests, and my experiences. I'm a recent post-bacc researcher in the Cognition, Affect, and Temperament Lab, and I hope to pursue a career in data management/science, more specifically in child development research.
+Hello and welcome to my personal website! I created this to tell you more about myself, my interests, and my experiences. I'm a project analyst at Quick Release\_ where I validate engineering changes and assess data accuracy for automotive companies. I'm especially interested in understanding how people think and feel and am passionate about using those insights to help shape engaging content, whether that\'s through audience research, creative testing, or behavioral data.
 
 ### Education
 
@@ -31,6 +31,8 @@ Hello and welcome to my personal website! I created this to tell you more about 
 Bachelor of Arts in Psychology \| August 2018 - May 2022
 
 ### Experience
+
+**Quick Release\_** \| Project Analyst \| October 2024 - Present
 
 **Cognition, Affect, and Temperament Lab** (PI: Koraly Pérez-Edgar, Ph.D.) \| Project Coordinator \| November 2022 - September 2024
 
